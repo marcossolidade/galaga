@@ -33,6 +33,7 @@ type
     Panel23: TPanel;
     Panel24: TPanel;
     Panel25: TPanel;
+    Panel26: TPanel;
   private
     { Private declarations }
   public
